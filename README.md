@@ -26,7 +26,7 @@ We welcome contributions to the repository, including new datasets, analysis too
 
 ## Support
 
-For any questions, feedback, or support inquiries, please [contact us](mailto:chipseq-repo@example.com).
+For any questions, feedback, or support inquiries, please [contact us](mailto:arbazattar1137@gmail.com).
 
 ## License
 
