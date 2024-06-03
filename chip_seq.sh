@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Assuming the raw data files are in FASTQ format and stored in the directory "raw_data"
 # Create a directory to store the results
 mkdir chipseq_analysis
